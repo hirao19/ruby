@@ -28,3 +28,6 @@ puts "次は今日したことをあげてみよう"
 name =　勉強しました
 
 puts "今日はprogatoで変数を" + name
+
+
+puts name
