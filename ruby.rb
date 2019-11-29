@@ -20,5 +20,14 @@ masterでcommitしちゃうお馬鹿です（笑）
 めげずにトライ！
 今度はしっかりね！
 
-
 TEXT
+
+puts "今度はしっかり出来たね！"
+puts "次は今日したことをあげてみよう"
+
+name =　"satou"
+
+puts "今日はprogatoで変数を" + name
+
+
+puts name
