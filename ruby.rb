@@ -25,7 +25,7 @@ TEXT
 puts "今度はしっかり出来たね！"
 puts "次は今日したことをあげてみよう"
 
-name =　勉強しました
+name =　"satou"
 
 puts "今日はprogatoで変数を" + name
 
